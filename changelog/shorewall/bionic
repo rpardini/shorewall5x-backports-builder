@@ -1,0 +1,5 @@
+shorewall (5.2.2-2~bionic1) bionic; urgency=medium
+
+  * Rebuilt for bionic
+
+ -- Ricardo Pardini (Pardini Yubi 2017) <ricardo@pardini.net>  Fri, 22 Feb 2019 12:40:35 +0100
